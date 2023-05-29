@@ -82,7 +82,7 @@
 
 ---
 
-### 4. [Metaversity](https://github.com/Seogang-LobbyDobby/lobbydobby-unity)
+### 5. [Metaversity](https://github.com/Seogang-LobbyDobby/lobbydobby-unity)
 >대학생 전용 메타버스 플랫폼 Metaversity (팀 프로젝트)  
 >개발 기간: 2023년 1월 2일 ~ 2월 23일
 >  

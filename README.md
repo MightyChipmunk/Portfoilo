@@ -2,6 +2,10 @@
 
 </br>
 
+## :pushpin: Biography
+- (2017.03 ~ 2024.02) 건국대학교 컴퓨터공학부 공학사 재학 중 (졸업예정)
+- (2018.07 ~ 2020.06) 공군 현역 (병역필)
+
 ## :pushpin: Contact
 - 이메일: 21qqq4@gmail.com
 - 블로그: https://velog.io/@kjhdx

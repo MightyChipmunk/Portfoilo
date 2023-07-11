@@ -9,7 +9,8 @@
 
 </br>
 
-## :pushpin: Projects
+## :pushpin: 팀 프로젝트
+  
 ### 1. [RayCity](https://github.com/MightyChipmunk/RaceProject)
 >게임 RayCity 모작 (팀 프로젝트)  
 >개발 기간: 2022년 7월 ~ 8월 (1달)
@@ -97,3 +98,50 @@
 >
 >[프로젝트 상세 설명](https://github.com/Seogang-LobbyDobby/lobbydobby-unity) 참고
 ([GitHub Organization](https://github.com/Seogang-LobbyDobby))
+
+
+</br>
+
+## :pushpin: 개인 프로젝트
+  
+### 1. [유니티를 통한 MMORPG 개발](https://github.com/MightyChipmunk/MMO-Unity)
+>인프런의 https://www.inflearn.com/roadmaps/355 강의를 보며 학습 및 구현했습니다.
+>
+>개발 기간: 2022년 3월 ~ 5월 (2달)
+>  
+>기술 스택:  
+>C# / Unity
+>
+>![image](https://github.com/MightyChipmunk/Portfoilo/assets/35093963/572e180f-7e73-4180-a4aa-057bd893dbb2)
+>![image](https://github.com/MightyChipmunk/Portfoilo/assets/35093963/d62ce7c7-e2f4-41d1-963f-c8edcf79b891)
+
+
+> 처음 게임 개발을 배우기 위해 인프런의 강의를 들으며 따라한 프로젝트입니다.
+>
+> 프로젝트 진행 도중 메타버스 아카데미라는 부트캠프에 붙어서 강의 끝까지 따라하진 못했지만, 기초를 쌓는데 큰 도움이 되었습니다.
+>
+>[블로그 정리](https://velog.io/@kjhdx/series/MMOUnity) 참고
+
+---
+
+### 2. [BridgeRacer](https://github.com/MightyChipmunk/HyperCasual_Study)
+>게임 BridgeRacer 모작
+>
+>개발 기간: 2023년 6월 ~ 7월 (2달)
+>  
+>기술 스택:  
+>C# / Unity
+>
+> ![](https://velog.velcdn.com/images/kjhdx/post/a2b4a9de-d384-48d9-853e-faeec75ccfd4/image.gif)
+> ![](https://velog.velcdn.com/images/kjhdx/post/cebe7aec-d22e-4ac1-be2c-b367f4ddb590/image.gif)
+
+> 서강대와의 협업을 끝마치고 나서 개인적으로 진행한 프로젝트입니다.
+>
+> 원래는 팀 프로젝트로써 출시를 목표로 시작했지만, 도중에 팀에서 나오게되어 개인적으로 진행하였습니다.
+> 
+>[블로그 정리](https://velog.io/@kjhdx/series/Bridge-Racer-%EB%AA%A8%EC%9E%91) 참고
+> 
+>[프로젝트 상세](https://github.com/MightyChipmunk/HyperCasual_Study) 참고
+
+---
+

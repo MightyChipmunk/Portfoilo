@@ -127,7 +127,7 @@
 ### 2. [BridgeRacer](https://github.com/MightyChipmunk/HyperCasual_Study)
 >게임 BridgeRacer 모작
 >
->개발 기간: 2023년 6월 ~ 7월 (2달)
+>개발 기간: 2023년 6월 ~ 7월 (1달)
 >  
 >기술 스택:  
 >C# / Unity
